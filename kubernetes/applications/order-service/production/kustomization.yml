@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: order-service
   newName: ghcr.io/sunithanbh007github/order-service
-  newTag: 5e993fa21218a50ef330b33f3cbcc340e09729c0
+  newTag: eeab43dbad6bebe55fb254fa49da05181c23de04
 
 replicas:
 - count: 1
